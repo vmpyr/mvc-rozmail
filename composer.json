@@ -1,0 +1,11 @@
+{
+    "name": "vmpyr/mvc-rozmail",
+    "description": "Finance manager with MVC",
+    "require": {
+        "torophp/torophp": "dev-master",
+        "twig/twig": "3.3.8"
+    },
+    "autoload": {
+        "classmap": ["app"]
+    }
+}
